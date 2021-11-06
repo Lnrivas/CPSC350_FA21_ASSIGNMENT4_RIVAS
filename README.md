@@ -25,8 +25,8 @@ https://www.cplusplus.com/reference/sstream/basic_stringstream/ was used to lear
 Worked alone.
 
 ## Instructions
-g++ *.cpp
-./a.out
+1. g++ *.cpp
+2. ./a.out
 
 # Application Purpose
 If RPN is entered as command line argument, user can enter a calculation in Postfix notation and the result will be output. If DNA is entered as command line argument, user is prompted to enter a file name, DNA sequences are read from the file and their complements and reverse complements are output to file dnaoutput.txt
